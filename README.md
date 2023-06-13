@@ -6,4 +6,13 @@ Coding challenge is an interesting part of each year QHack experience. It contai
 
 # Navigation
 
-The challenges are presented in Jupyter notebook format. They are organized according to the year, topic, and the original names for the challenges.
+The challenges are presented in Jupyter notebook format. They are organized according to the year, original name of the topic, and reward for the challenges.
+
+# Content
+
+- QHack2022:
+    - PennyLane 101: 100-500 Points
+    - Algorithms: 100-400 Points
+    - Quantum Chemistry: 100-500 Points
+- QHack2023:
+    - Fall of Sqynet: 100-500 Points
